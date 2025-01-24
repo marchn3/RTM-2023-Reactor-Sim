@@ -1,2 +1,2 @@
 # RTM-2023-Reactor-Sim
-Contains code for a simulation of the neutronics in a 2D heterogeneous nuclear reactor core, developed for RPI RTM 2023.
+This repository contains the code and documentation for simulating neutronics in the Biblis 2D reactor using diffusion theory. The project focuses on criticality analysis, neutron flux distributions, and leakage rate calculations for a simplified 2D representation of the Biblis Nuclear Power Plant reactor core.
